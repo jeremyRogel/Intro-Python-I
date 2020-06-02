@@ -33,6 +33,8 @@ best for learning new languages.
 * [How to read Specs and Code](https://github.com/LambdaSchool/CS-Wiki/wiki/How-to-Read-Specifications-and-Code)
 * [Python 3 standard library](https://docs.python.org/3.6/library/)
 
+finished woohoo (im a virus dont find me ahhh)
+
 ## Getting started
 
 1. Make sure you have Python 3 and pipenv installed.
